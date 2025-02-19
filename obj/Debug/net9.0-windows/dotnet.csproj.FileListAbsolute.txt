@@ -1,0 +1,15 @@
+D:\dotnet\bin\Debug\net9.0-windows\dotnet.exe
+D:\dotnet\bin\Debug\net9.0-windows\dotnet.deps.json
+D:\dotnet\bin\Debug\net9.0-windows\dotnet.runtimeconfig.json
+D:\dotnet\bin\Debug\net9.0-windows\dotnet.dll
+D:\dotnet\bin\Debug\net9.0-windows\dotnet.pdb
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.AssemblyInfoInputs.cache
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.AssemblyInfo.cs
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.csproj.CoreCompileInputs.cache
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.sourcelink.json
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.dll
+D:\dotnet\obj\Debug\net9.0-windows\refint\dotnet.dll
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.pdb
+D:\dotnet\obj\Debug\net9.0-windows\dotnet.genruntimeconfig.cache
+D:\dotnet\obj\Debug\net9.0-windows\ref\dotnet.dll
